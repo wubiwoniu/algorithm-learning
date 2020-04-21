@@ -2,6 +2,7 @@
     "files.associations": {
         "stdlib.h": "c",
         "tuple": "c",
-        "utility": "c"
+        "utility": "c",
+        "stdbool.h": "c"
     }
 }

@@ -1,2 +1,2 @@
 # algorithm-learning
-for my studies
+学习用，多数出自算法导论
